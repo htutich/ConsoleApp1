@@ -1,0 +1,6 @@
+G:\lessons c#\ConsoleApp1\ex2\bin\Debug\ex2.exe.config
+G:\lessons c#\ConsoleApp1\ex2\bin\Debug\ex2.exe
+G:\lessons c#\ConsoleApp1\ex2\bin\Debug\ex2.pdb
+G:\lessons c#\ConsoleApp1\ex2\obj\Debug\ex2.csproj.CoreCompileInputs.cache
+G:\lessons c#\ConsoleApp1\ex2\obj\Debug\ex2.exe
+G:\lessons c#\ConsoleApp1\ex2\obj\Debug\ex2.pdb
