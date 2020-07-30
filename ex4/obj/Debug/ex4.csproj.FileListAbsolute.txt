@@ -1,0 +1,6 @@
+G:\lessons c#\GeekBrains-C-\ex4\obj\Debug\ex4.csproj.CoreCompileInputs.cache
+G:\lessons c#\GeekBrains-C-\ex4\bin\Debug\ex4.exe.config
+G:\lessons c#\GeekBrains-C-\ex4\bin\Debug\ex4.exe
+G:\lessons c#\GeekBrains-C-\ex4\bin\Debug\ex4.pdb
+G:\lessons c#\GeekBrains-C-\ex4\obj\Debug\ex4.exe
+G:\lessons c#\GeekBrains-C-\ex4\obj\Debug\ex4.pdb

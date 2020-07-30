@@ -1,0 +1,7 @@
+G:\lessons c#\GeekBrains-C-\ex3\bin\Debug\ex3.exe.config
+G:\lessons c#\GeekBrains-C-\ex3\bin\Debug\ex3.exe
+G:\lessons c#\GeekBrains-C-\ex3\bin\Debug\ex3.pdb
+G:\lessons c#\GeekBrains-C-\ex3\obj\Debug\ex3.csproj.CoreCompileInputs.cache
+G:\lessons c#\GeekBrains-C-\ex3\obj\Debug\ex3.exe
+G:\lessons c#\GeekBrains-C-\ex3\obj\Debug\ex3.pdb
+G:\lessons c#\GeekBrains-C-\ex3\obj\Debug\ex3.csprojAssemblyReference.cache
