@@ -1,0 +1,7 @@
+G:\lessons c#\GeekBrains-C-\hw1_B\obj\Debug\hw1_B.csprojAssemblyReference.cache
+G:\lessons c#\GeekBrains-C-\hw1_B\obj\Debug\hw1_B.csproj.CoreCompileInputs.cache
+G:\lessons c#\GeekBrains-C-\hw1_B\bin\Debug\hw1_B.exe.config
+G:\lessons c#\GeekBrains-C-\hw1_B\bin\Debug\hw1_B.exe
+G:\lessons c#\GeekBrains-C-\hw1_B\bin\Debug\hw1_B.pdb
+G:\lessons c#\GeekBrains-C-\hw1_B\obj\Debug\hw1_B.exe
+G:\lessons c#\GeekBrains-C-\hw1_B\obj\Debug\hw1_B.pdb
