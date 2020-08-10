@@ -1,0 +1,13 @@
+G:\lessons c#\GeekBrains-C-\hw1\bin\Debug\netcoreapp3.1\hw1.exe
+G:\lessons c#\GeekBrains-C-\hw1\bin\Debug\netcoreapp3.1\hw1.deps.json
+G:\lessons c#\GeekBrains-C-\hw1\bin\Debug\netcoreapp3.1\hw1.runtimeconfig.json
+G:\lessons c#\GeekBrains-C-\hw1\bin\Debug\netcoreapp3.1\hw1.runtimeconfig.dev.json
+G:\lessons c#\GeekBrains-C-\hw1\bin\Debug\netcoreapp3.1\hw1.dll
+G:\lessons c#\GeekBrains-C-\hw1\bin\Debug\netcoreapp3.1\hw1.pdb
+G:\lessons c#\GeekBrains-C-\hw1\obj\Debug\netcoreapp3.1\hw1.csprojAssemblyReference.cache
+G:\lessons c#\GeekBrains-C-\hw1\obj\Debug\netcoreapp3.1\hw1.AssemblyInfoInputs.cache
+G:\lessons c#\GeekBrains-C-\hw1\obj\Debug\netcoreapp3.1\hw1.AssemblyInfo.cs
+G:\lessons c#\GeekBrains-C-\hw1\obj\Debug\netcoreapp3.1\hw1.csproj.CoreCompileInputs.cache
+G:\lessons c#\GeekBrains-C-\hw1\obj\Debug\netcoreapp3.1\hw1.dll
+G:\lessons c#\GeekBrains-C-\hw1\obj\Debug\netcoreapp3.1\hw1.pdb
+G:\lessons c#\GeekBrains-C-\hw1\obj\Debug\netcoreapp3.1\hw1.genruntimeconfig.cache
