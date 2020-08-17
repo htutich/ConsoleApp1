@@ -1,0 +1,10 @@
+G:\lessons c#\GeekBrains-C-\WF_Udvoitel\bin\Debug\WF_Udvoitel.exe.config
+G:\lessons c#\GeekBrains-C-\WF_Udvoitel\bin\Debug\WF_Udvoitel.exe
+G:\lessons c#\GeekBrains-C-\WF_Udvoitel\bin\Debug\WF_Udvoitel.pdb
+G:\lessons c#\GeekBrains-C-\WF_Udvoitel\obj\Debug\WF_Udvoitel.csprojAssemblyReference.cache
+G:\lessons c#\GeekBrains-C-\WF_Udvoitel\obj\Debug\WF_Udvoitel.Form1.resources
+G:\lessons c#\GeekBrains-C-\WF_Udvoitel\obj\Debug\WF_Udvoitel.Properties.Resources.resources
+G:\lessons c#\GeekBrains-C-\WF_Udvoitel\obj\Debug\WF_Udvoitel.csproj.GenerateResource.cache
+G:\lessons c#\GeekBrains-C-\WF_Udvoitel\obj\Debug\WF_Udvoitel.csproj.CoreCompileInputs.cache
+G:\lessons c#\GeekBrains-C-\WF_Udvoitel\obj\Debug\WF_Udvoitel.exe
+G:\lessons c#\GeekBrains-C-\WF_Udvoitel\obj\Debug\WF_Udvoitel.pdb

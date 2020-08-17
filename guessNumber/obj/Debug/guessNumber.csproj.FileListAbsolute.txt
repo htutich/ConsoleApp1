@@ -1,0 +1,11 @@
+G:\lessons c#\GeekBrains-C-\guessNumber\bin\Debug\guessNumber.exe.config
+G:\lessons c#\GeekBrains-C-\guessNumber\bin\Debug\guessNumber.exe
+G:\lessons c#\GeekBrains-C-\guessNumber\bin\Debug\guessNumber.pdb
+G:\lessons c#\GeekBrains-C-\guessNumber\obj\Debug\guessNumber.csprojAssemblyReference.cache
+G:\lessons c#\GeekBrains-C-\guessNumber\obj\Debug\guessNumber.Form1.resources
+G:\lessons c#\GeekBrains-C-\guessNumber\obj\Debug\guessNumber.Form2.resources
+G:\lessons c#\GeekBrains-C-\guessNumber\obj\Debug\guessNumber.Properties.Resources.resources
+G:\lessons c#\GeekBrains-C-\guessNumber\obj\Debug\guessNumber.csproj.GenerateResource.cache
+G:\lessons c#\GeekBrains-C-\guessNumber\obj\Debug\guessNumber.csproj.CoreCompileInputs.cache
+G:\lessons c#\GeekBrains-C-\guessNumber\obj\Debug\guessNumber.exe
+G:\lessons c#\GeekBrains-C-\guessNumber\obj\Debug\guessNumber.pdb
