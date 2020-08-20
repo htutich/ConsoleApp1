@@ -1,0 +1,7 @@
+G:\lessons c#\GeekBrains-C-\Reflection\bin\Debug\Reflection.exe.config
+G:\lessons c#\GeekBrains-C-\Reflection\bin\Debug\Reflection.exe
+G:\lessons c#\GeekBrains-C-\Reflection\bin\Debug\Reflection.pdb
+G:\lessons c#\GeekBrains-C-\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+G:\lessons c#\GeekBrains-C-\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+G:\lessons c#\GeekBrains-C-\Reflection\obj\Debug\Reflection.exe
+G:\lessons c#\GeekBrains-C-\Reflection\obj\Debug\Reflection.pdb

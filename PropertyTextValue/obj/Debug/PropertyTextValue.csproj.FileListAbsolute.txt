@@ -1,0 +1,10 @@
+G:\lessons c#\GeekBrains-C-\PropertyTextValue\bin\Debug\PropertyTextValue.exe.config
+G:\lessons c#\GeekBrains-C-\PropertyTextValue\bin\Debug\PropertyTextValue.exe
+G:\lessons c#\GeekBrains-C-\PropertyTextValue\bin\Debug\PropertyTextValue.pdb
+G:\lessons c#\GeekBrains-C-\PropertyTextValue\obj\Debug\PropertyTextValue.csprojAssemblyReference.cache
+G:\lessons c#\GeekBrains-C-\PropertyTextValue\obj\Debug\PropertyTextValue.Form1.resources
+G:\lessons c#\GeekBrains-C-\PropertyTextValue\obj\Debug\PropertyTextValue.Properties.Resources.resources
+G:\lessons c#\GeekBrains-C-\PropertyTextValue\obj\Debug\PropertyTextValue.csproj.GenerateResource.cache
+G:\lessons c#\GeekBrains-C-\PropertyTextValue\obj\Debug\PropertyTextValue.csproj.CoreCompileInputs.cache
+G:\lessons c#\GeekBrains-C-\PropertyTextValue\obj\Debug\PropertyTextValue.exe
+G:\lessons c#\GeekBrains-C-\PropertyTextValue\obj\Debug\PropertyTextValue.pdb
