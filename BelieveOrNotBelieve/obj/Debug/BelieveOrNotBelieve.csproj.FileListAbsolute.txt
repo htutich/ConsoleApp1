@@ -1,0 +1,9 @@
+G:\lessons c#\GeekBrains-C-\BelieveOrNotBelieve\bin\Debug\BelieveOrNotBelieve.exe.config
+G:\lessons c#\GeekBrains-C-\BelieveOrNotBelieve\bin\Debug\BelieveOrNotBelieve.exe
+G:\lessons c#\GeekBrains-C-\BelieveOrNotBelieve\bin\Debug\BelieveOrNotBelieve.pdb
+G:\lessons c#\GeekBrains-C-\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.Form1.resources
+G:\lessons c#\GeekBrains-C-\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.Properties.Resources.resources
+G:\lessons c#\GeekBrains-C-\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.csproj.GenerateResource.cache
+G:\lessons c#\GeekBrains-C-\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.csproj.CoreCompileInputs.cache
+G:\lessons c#\GeekBrains-C-\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.exe
+G:\lessons c#\GeekBrains-C-\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.pdb

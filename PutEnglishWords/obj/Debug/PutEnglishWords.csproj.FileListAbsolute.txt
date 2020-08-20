@@ -1,0 +1,10 @@
+G:\lessons c#\GeekBrains-C-\PutEnglishWords\bin\Debug\PutEnglishWords.exe.config
+G:\lessons c#\GeekBrains-C-\PutEnglishWords\bin\Debug\PutEnglishWords.exe
+G:\lessons c#\GeekBrains-C-\PutEnglishWords\bin\Debug\PutEnglishWords.pdb
+G:\lessons c#\GeekBrains-C-\PutEnglishWords\obj\Debug\PutEnglishWords.csprojAssemblyReference.cache
+G:\lessons c#\GeekBrains-C-\PutEnglishWords\obj\Debug\PutEnglishWords.Form1.resources
+G:\lessons c#\GeekBrains-C-\PutEnglishWords\obj\Debug\PutEnglishWords.Properties.Resources.resources
+G:\lessons c#\GeekBrains-C-\PutEnglishWords\obj\Debug\PutEnglishWords.csproj.GenerateResource.cache
+G:\lessons c#\GeekBrains-C-\PutEnglishWords\obj\Debug\PutEnglishWords.csproj.CoreCompileInputs.cache
+G:\lessons c#\GeekBrains-C-\PutEnglishWords\obj\Debug\PutEnglishWords.exe
+G:\lessons c#\GeekBrains-C-\PutEnglishWords\obj\Debug\PutEnglishWords.pdb
